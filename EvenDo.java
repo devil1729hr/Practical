@@ -1,6 +1,6 @@
 class EvenDo{
     public static void main(String[]args){
-
+    	// Check Even Number using do while
     	int i = 0;
     	do {
     		if(i % 2 == 0) {
